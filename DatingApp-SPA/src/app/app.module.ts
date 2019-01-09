@@ -16,3 +16,13 @@ import { RegisterComponent } from './register/register.component';
   bootstrap: [AppComponent]
 })
 export class AppModule {}
+
+// topics touched on:
+/*
+1) Angular Services to keep components as simple as possible and how to inject them
+2) Conditionally rendering elements in the Dom
+3) Input properties to pass data down from parent to child
+4) Output properties and emiters to send data up and affect parent status from child components
+5) How to work with parent and child components
+6) 
+*/
